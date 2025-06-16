@@ -1,6 +1,6 @@
 # Flightmax
 
-My first C++ project compiled with Borland Turbo C++ 3.x (DOS)
+C++ project compiled with Borland Turbo C++ 3.x (DOS)
 
 ## How to Setup
 
