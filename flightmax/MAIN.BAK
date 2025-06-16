@@ -1,0 +1,11 @@
+#include "prog.h"
+#include <iostream.h>
+
+int main()
+{
+
+	program start;
+	start.process();
+
+	return 0;
+}

@@ -1,0 +1,13 @@
+---Welcome to flightmax---
+
+This program have been written to
+input flight details for a small 
+airline company.
+Features are:
+
+-Live Validation-
+-Record management-
+-Record printout-
+-and much more-
+
+Press any key to continue

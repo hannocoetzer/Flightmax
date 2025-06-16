@@ -1,0 +1,7 @@
+@echo off
+SET PATH=C:\TC\BIN;%PATH%
+SET INCLUDE=C:\TC\INCLUDE
+SET LIB=C:\TC\LIB
+SET TC=C:\TC
+cd C:\TC\BIN
+tc.exe
