@@ -2,7 +2,7 @@
 
 C++ project compiled with Borland Turbo C++ 3.x (DOS)
 
-![Game Screenshot](images/game_screen.jpg)
+![Game Screenshot](images/game_screen.JPG)
 
 ## How to Setup
 
