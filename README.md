@@ -2,23 +2,31 @@
 
 C++ project compiled with Borland Turbo C++ 3.x (DOS)
 
+![Game Screenshot](images/game_screen.jpg)
+
 ## How to Setup
 
 I have included the Borland C++ IDE in the `TC` folder.
 
 ### Prerequisites
-1. Download and open DOSBox
-2. In DOSBox run:
-   ```
-   mount c: c:\<git_checkout_path>
-   c:
-   ```
+Download and open DOSBox (https://sourceforge.net/projects/dosbox/)
 
-### Setup Borland C++ Include .H and .OBJ Libraries
-Run the setup batch file:
-```
-setup.bat
-```
+
+
+
+### Open DOSbox
+ In DOSBox : NB!! DOSbox might shorten paths such that Flightmax is Flight~1
+	```
+	mount c: c:\<git_checkout_path>
+	```
+ Run the setup batch file in command line to set Libraries and Include files as system paths:
+	```
+	setup.bat
+	```
+ Navigate and open Borland C++ 
+	```
+	c:\TC\BIN\TC.EXE   
+	```
 
 ### In Borland C++ IDE
 1. Navigate to **(P)Project** and browse to `Flightmax\PROJ6B.PRJ`
